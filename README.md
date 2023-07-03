@@ -1,1 +1,1 @@
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://telegra.ph/NCCRACK-SOFTWARE-LAUNCHER-05-25)
+[Перейти к моему профилю на GitHub](https://github.com/your-username){: .btn .btn-github}
